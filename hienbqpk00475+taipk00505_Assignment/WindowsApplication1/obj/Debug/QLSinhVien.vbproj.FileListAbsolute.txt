@@ -1,0 +1,24 @@
+C:\Users\MyPC\Desktop\hienbqpk00475+taipk00505_Assignment\QLSinhVien\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Users\MyPC\Desktop\hienbqpk00475+taipk00505_Assignment\QLSinhVien\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\MyPC\Desktop\hienbqpk00475+taipk00505_Assignment\QLSinhVien\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Users\MyPC\Desktop\hienbqpk00475+taipk00505_Assignment\QLSinhVien\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\Users\MyPC\Desktop\hienbqpk00475+taipk00505_Assignment\QLSinhVien\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\MyPC\Desktop\hienbqpk00475+taipk00505_Assignment\QLSinhVien\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\MyPC\Desktop\hienbqpk00475+taipk00505_Assignment\QLSinhVien\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\MyPC\Desktop\hienbqpk00475+taipk00505_Assignment\QLSinhVien\WindowsApplication1\obj\Debug\WindowsApplication1.FrmQLSV.resources
+C:\Users\MyPC\Desktop\hienbqpk00475+taipk00505_Assignment\QLSinhVien\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\MyPC\Desktop\hienbqpk00475+taipk00505_Assignment\QLSinhVien\WindowsApplication1\obj\Debug\QLSinhVien.vbproj.GenerateResource.Cache
+D:\Tài Liệu\Bài tập lab\Com2042\hienbqpk00475+taipk00505_Assignment\QLSinhVien\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+D:\Tài Liệu\Bài tập lab\Com2042\hienbqpk00475+taipk00505_Assignment\QLSinhVien\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+D:\Tài Liệu\Bài tập lab\Com2042\hienbqpk00475+taipk00505_Assignment\QLSinhVien\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+D:\Tài Liệu\Bài tập lab\Com2042\hienbqpk00475+taipk00505_Assignment\QLSinhVien\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+D:\Tài Liệu\Bài tập lab\Com2042\hienbqpk00475+taipk00505_Assignment\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+D:\Tài Liệu\Bài tập lab\Com2042\hienbqpk00475+taipk00505_Assignment\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+D:\Tài Liệu\Bài tập lab\Com2042\hienbqpk00475+taipk00505_Assignment\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+D:\Tài Liệu\Bài tập lab\Com2042\hienbqpk00475+taipk00505_Assignment\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+D:\Tài Liệu\Bài tập lab\Com2042\hienbqpk00475+taipk00505_Assignment\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+D:\Tài Liệu\Bài tập lab\Com2042\hienbqpk00475+taipk00505_Assignment\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+D:\Tài Liệu\Bài tập lab\Com2042\hienbqpk00475+taipk00505_Assignment\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+D:\Tài Liệu\Bài tập lab\Com2042\hienbqpk00475+taipk00505_Assignment\WindowsApplication1\obj\Debug\WindowsApplication1.FrmQLSV.resources
+D:\Tài Liệu\Bài tập lab\Com2042\hienbqpk00475+taipk00505_Assignment\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+D:\Tài Liệu\Bài tập lab\Com2042\hienbqpk00475+taipk00505_Assignment\WindowsApplication1\obj\Debug\QLSinhVien.vbproj.GenerateResource.Cache
